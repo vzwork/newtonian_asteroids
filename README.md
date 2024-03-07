@@ -4,7 +4,7 @@ You are an asteroid miner.
 You are mining Newtonian Asteroids that have a property of resisting motion.
 You get paid for delivery of those asteroids to the base.
 
-Those asteroids are conductive to electricity and loose resistance property when under the current.
+Those asteroids are conductive to electricity and loose resistance property when under the electic current.
 
 
 STAGE I functionality:
