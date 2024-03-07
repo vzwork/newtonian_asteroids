@@ -31,3 +31,10 @@ STAGE III functionality:
 STAGE IV functionality:
 
 - Game progression
+
+
+DEVELOPMENT I:
+
+- Single page web app
+- Canvas access
+- Game loop
