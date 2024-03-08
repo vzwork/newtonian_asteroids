@@ -38,3 +38,12 @@ DEVELOPMENT I:
 - Single page web app
 - Canvas access
 - Game loop
+
+
+DEVELOPMENT II:
+
+- Location Logic
+- Movement logic
+- Grid
+- Base
+- Base pointer
