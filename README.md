@@ -6,44 +6,40 @@ You get paid for delivery of those asteroids to the base.
 
 Those asteroids are conductive to electricity and loose resistance property when under the electic current.
 
-
 STAGE I functionality:
 
-- Plane
+- Plane=
 - Force logic
 - Spaceship
 - Movement
 - Base direction
-
 
 STAGE II functionality:
 
 - Collision logic
 - Transfer of force
 
-
 STAGE III functionality:
 
 - Asteroids logic (weight, resistance)
 - Background generation (distance, speed)
 
-
 STAGE IV functionality:
 
 - Game progression
-
 
 DEVELOPMENT I:
 
 - Single page web app
 - Canvas access
 - Game loop
-
-
-DEVELOPMENT II:
-
 - Location Logic
 - Movement logic
 - Grid
+- Visibility logic
+  - Object maintenance (location, movement)
 - Base
 - Base pointer
+- Collision detection
+  - Use Quadtree - push deeper only the ones that fit within subquad (check box limits)
+- Transfer of force logic
